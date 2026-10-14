@@ -10,16 +10,23 @@ Hi, I'm Michael Gannotti. I'm a Principal AI at Microsoft, and I run AI research
 
 | Template | What it does | Link |
 |---|---|---|
+| Acceptance Coach | Builds your school list, deadline calendar and essay plan, and coaches your essays in your own voice. For college, grad and MBA applicants and their parents. | [Add to Grok Bot](https://x.ai/bot/icXWlm7EPEs3khWmXVoD1) |
 | AI Claim Checker | Paste an AI launch post, benchmark chart, or price claim and get a dated, sourced claim card: supported, vendor-only, contradicted, or unverifiable. For anyone who wants to know if an AI claim holds up. | [Add to Grok Bot](https://x.ai/bot/G48vC01p5cAxckACKFIaM) |
 | AI Daily Radar | Your morning AI brief, tuned to your stack. Launches, price changes, and benchmark claims from the last 24h, each tagged vendor-claimed or independently tested, with links. | [Add to Grok Bot](https://x.ai/bot/EZ8RChmm9gSGmK3SXv-3M) |
 | Bot Team Chief of Staff | Chief of staff for your team of bots. Checks what each bot actually did, catches sloppy or unverified work, keeps routines healthy, and sends a short daily pulse and a weekly team review. | [Add to Grok Bot](https://x.ai/bot/gwY3JyQ7noK9GSHFo-p7E) |
 | Bourne Bot | A calm, no-nonsense personal security advisor. Bourne Bot helps you lock down your accounts, devices, location, money, family, and reputation with proportional, legal steps, and walks you through incidents when something goes wrong. | [Add to Grok Bot](https://x.ai/bot/Y8zQlQDtzwGFBrKVWlqCa) |
 | Builder Prime | The builder half of a two-bot coding team. Pair it with Gatekeeper Prime: it plans, codes, tests and opens PRs, then fixes what review finds. | [Add to Grok Bot](https://x.ai/bot/W_emQTXhJxJWJOi-c3hjD) |
+| Fare Hawk | Name a place and dates for a day-by-day itinerary card, then it watches flight and hotel prices until you book. You book; it never pays without your yes. | [Add to Grok Bot](https://x.ai/bot/tpDfMhi6UIk9Equ6jqpfu) |
 | First-Week Coach | New to Grok Bot? A 10-minute daily lesson for 7 days. It learns your work, picks 3 bots worth adding, teaches routines, approvals, and safe connections, then runs a weekly team check-up. | [Add to Grok Bot](https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67) |
 | Gatekeeper Prime | The reviewer half of a two-bot coding team. Pair it with Builder Prime: it reviews every pull request in public, demands proof that fixes work, keeps main protected, and merges only on your yes. | [Add to Grok Bot](https://x.ai/bot/re7nU5kngjZPu3qNtvzUx) |
 | GitHub PR Desk | Your morning GitHub desk. Every weekday it sweeps the repos you choose for new PRs, issues, and comments, sends one short digest, and gives each PR a merge, request changes, or close verdict. | [Add to Grok Bot](https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic) |
 | Grok Studio | Drop in a link, PDF, or topic and get a cited, narrated explainer video, hosted by your own AI presenter, made with Grok Imagine and Grok Voice. Every slide shows its source, and nothing goes public until you say so. Source: [smfworks/grok-studio](https://github.com/smfworks/grok-studio). | [Add to Grok Bot](https://x.ai/bot/QXZCVsfDe4hNuHRLxkfRb) |
+| Healthspan Coach | Turns your goals, wearable data and lab reports into an evidence-based weekly plan for training, sleep and nutrition, on your calendar. Coaching, not medical advice. | [Add to Grok Bot](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) |
+| Ledger | Finds every subscription, bill, renewal and deadline hiding in your inbox and drafts the replies. Money and due dates, handled; nothing sent without your yes. | [Add to Grok Bot](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) |
+| Night Owl Scout | Tell it what you're hunting for (an apartment, a used car, tickets, a restock) and every morning you see only what's new. | [Add to Grok Bot](https://x.ai/bot/aF1pTFYqb_cM2kTdxu60M) |
+| Offer Hunter | Finds roles that actually fit, tailors your resume truthfully, preps every application and tracks it all. You approve every submit. | [Add to Grok Bot](https://x.ai/bot/v3KEiMUjQVaiWWBRusvX1) |
 | Sittawhile | A warm AI companion for anyone who spends a lot of time alone. Short daily visits in a voice you choose, like a supportive friend, a Southern grandma or a Brooklyn nonno. | [Add to Grok Bot](https://x.ai/bot/50a-UaeqVWBnrZICU7Jti) |
+| Tally | Snap or forward any receipt and Tally files it into a Schedule C-style expense sheet, estimates your quarterly taxes and hands your accountant a clean export. For freelancers and side hustlers. Not tax advice. | [Add to Grok Bot](https://x.ai/bot/H2J0Lap9NaVoHCz7uC_gv) |
 
 ## How to use
 
