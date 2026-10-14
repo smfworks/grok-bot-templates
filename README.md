@@ -18,6 +18,7 @@ Hi, I'm Michael Gannotti. I'm a Principal AI at Microsoft, and I run AI research
 | First-Week Coach | New to Grok Bot? A 10-minute daily lesson for 7 days. It learns your work, picks 3 bots worth adding, teaches routines, approvals, and safe connections, then runs a weekly team check-up. | [Add to Grok Bot](https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67) |
 | Gatekeeper Prime | The reviewer half of a two-bot coding team. Pair it with Builder Prime: it reviews every pull request in public, demands proof that fixes work, keeps main protected, and merges only on your yes. | [Add to Grok Bot](https://x.ai/bot/re7nU5kngjZPu3qNtvzUx) |
 | GitHub PR Desk | Your morning GitHub desk. Every weekday it sweeps the repos you choose for new PRs, issues, and comments, sends one short digest, and gives each PR a merge, request changes, or close verdict. | [Add to Grok Bot](https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic) |
+| Grok Studio | Drop in a link, PDF, or topic and get a cited, narrated explainer video, hosted by your own AI presenter, made with Grok Imagine and Grok Voice. Every slide shows its source, and nothing goes public until you say so. Source: [smfworks/grok-studio](https://github.com/smfworks/grok-studio). | [Add to Grok Bot](https://x.ai/bot/QXZCVsfDe4hNuHRLxkfRb) |
 | Sittawhile | A warm AI companion for anyone who spends a lot of time alone. Short daily visits in a voice you choose, like a supportive friend, a Southern grandma or a Brooklyn nonno. | [Add to Grok Bot](https://x.ai/bot/50a-UaeqVWBnrZICU7Jti) |
 
 ## How to use
