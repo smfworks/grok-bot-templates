@@ -4,7 +4,7 @@
 
 # Grok Bot Templates by SMF Works
 
-Hi, I'm Michael Gannotti. I'm a Principal AI at Microsoft, and I run AI research at SMF Works. These are the Grok Bot templates I've published so far. Each template is a ready-made bot, and one click adds it to your Grok Bot.
+Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Grok Bot templates I've published so far. Each template is a ready-made bot, and one click adds it to your Grok Bot.
 
 ## Templates
 
@@ -40,6 +40,6 @@ Hi, I'm Michael Gannotti. I'm a Principal AI at Microsoft, and I run AI research
 - X: [@MichaelGannotti](https://x.com/MichaelGannotti)
 - Blog: [SMF Clearinghouse](https://www.smfclearinghouse.com)
 
-_Last verified: October 9, 2026, 10:23 AM ET. Every link above was opened logged-out and loads its public template page._
+_Last verified: October 14, 2026. Every link above was opened logged-out and loads its public template page._
 
 These templates are an unofficial community project by SMF Works, not affiliated with SpaceXAI.
