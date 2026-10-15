@@ -26,6 +26,7 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 | Magical Music Video Maker | Send a song and its lyrics, and get back a cinematic music video cut to the beat. It proposes the look and storyline first, then keeps the characters and scenes consistent from shot to shot. | [Add to Grok Bot](https://x.ai/bot/I_-3solZeQXm-Pn2_C55A) |
 | Night Owl Scout | Tell it what you're hunting for (an apartment, a used car, tickets, a restock) and every morning you see only what's new. | [Add to Grok Bot](https://x.ai/bot/aF1pTFYqb_cM2kTdxu60M) |
 | Offer Hunter | Finds roles that actually fit, tailors your resume truthfully, preps every application and tracks it all. You approve every submit. | [Add to Grok Bot](https://x.ai/bot/v3KEiMUjQVaiWWBRusvX1) |
+| Omarchy Maintenance | Keeps your Omarchy PC, its plugins and every app up to date on your schedule: a dry-run summary and known-issues check first, then a snapshot-backed update you start with one tap, a health check and a clear report. | [Add to Grok Bot](https://x.ai/bot/ZFtBbDeNciHpCvORetaw5) |
 | Pantry Pilot | Show it your fridge, get a week of family meals and a filled grocery cart. It stops before checkout, every time. | [Add to Grok Bot](https://x.ai/bot/9cKnt1JbVEqPMaEQgcJq0) |
 | Sittawhile | A warm AI companion for anyone who spends a lot of time alone. Short daily visits in a voice you choose, like a supportive friend, a Southern grandma or a Brooklyn nonno. | [Add to Grok Bot](https://x.ai/bot/50a-UaeqVWBnrZICU7Jti) |
 | Tally | Snap or forward any receipt and Tally files it into a Schedule C-style expense sheet, estimates your quarterly taxes and hands your accountant a clean export. For freelancers and side hustlers. Not tax advice. | [Add to Grok Bot](https://x.ai/bot/H2J0Lap9NaVoHCz7uC_gv) |
@@ -41,6 +42,6 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 - X: [@MichaelGannotti](https://x.com/MichaelGannotti)
 - Blog: [SMF Clearinghouse](https://www.smfclearinghouse.com)
 
-_Last verified: October 14, 2026. Every link above was opened logged-out and loads its public template page._
+_Last verified: October 15, 2026. Every link above was opened logged-out and loads its public template page._
 
 These templates are an unofficial community project by SMF Works, not affiliated with SpaceXAI.
