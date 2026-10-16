@@ -20,6 +20,7 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 | First-Week Coach | New to Grok Bot? A 10-minute daily lesson for 7 days. It learns your work, picks 3 bots worth adding, teaches routines, approvals, and safe connections, then runs a weekly team check-up. | [Add to Grok Bot](https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67) |
 | Gatekeeper Prime | The reviewer half of a two-bot coding team. Pair it with Builder Prime: it reviews every pull request in public, demands proof that fixes work, keeps main protected, and merges only on your yes. | [Add to Grok Bot](https://x.ai/bot/re7nU5kngjZPu3qNtvzUx) |
 | GitHub PR Desk | Your morning GitHub desk. Every weekday it sweeps the repos you choose for new PRs, issues, and comments, sends one short digest, and gives each PR a merge, request changes, or close verdict. | [Add to Grok Bot](https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic) |
+| Grok Bot Video Studio | Your end-to-end AI video studio on Grok Imagine: cited explainers, presenter shorts, multi-shot stories with locked characters, and music videos for songs you own. It plans, generates, edits, captions and QA-checks every video, and nothing goes public unless you post it. | [Add to Grok Bot](https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN) |
 | Grok Studio | Drop in a link, PDF, or topic and get a cited, narrated explainer video, hosted by your own AI presenter, made with Grok Imagine and Grok Voice. Every slide shows its source, and nothing goes public until you say so. Source: [smfworks/grok-studio](https://github.com/smfworks/grok-studio). | [Add to Grok Bot](https://x.ai/bot/QXZCVsfDe4hNuHRLxkfRb) |
 | Healthspan Coach | Turns your goals, wearable data and lab reports into an evidence-based weekly plan for training, sleep and nutrition, on your calendar. Coaching, not medical advice. | [Add to Grok Bot](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) |
 | Ledger | Finds every subscription, bill, renewal and deadline hiding in your inbox and drafts the replies. Money and due dates, handled; nothing sent without your yes. | [Add to Grok Bot](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) |
@@ -42,6 +43,6 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 - X: [@MichaelGannotti](https://x.com/MichaelGannotti)
 - Blog: [SMF Clearinghouse](https://www.smfclearinghouse.com)
 
-_Last verified: October 15, 2026. Every link above was opened logged-out and loads its public template page._
+_Last verified: October 16, 2026. Every link above was opened logged-out and loads its public template page._
 
 These templates are an unofficial community project by SMF Works, not affiliated with SpaceXAI.
