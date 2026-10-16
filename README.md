@@ -24,7 +24,7 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 | Grok Studio | Drop in a link, PDF, or topic and get a cited, narrated explainer video, hosted by your own AI presenter, made with Grok Imagine and Grok Voice. Every slide shows its source, and nothing goes public until you say so. Source: [smfworks/grok-studio](https://github.com/smfworks/grok-studio). | [Add to Grok Bot](https://x.ai/bot/QXZCVsfDe4hNuHRLxkfRb) |
 | Healthspan Coach | Turns your goals, wearable data and lab reports into an evidence-based weekly plan for training, sleep and nutrition, on your calendar. Coaching, not medical advice. | [Add to Grok Bot](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) |
 | Ledger | Finds every subscription, bill, renewal and deadline hiding in your inbox and drafts the replies. Money and due dates, handled; nothing sent without your yes. | [Add to Grok Bot](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) |
-| Magical Music Video Maker | Send a song and its lyrics, and get back a cinematic music video cut to the beat. It proposes the look and storyline first, then keeps the characters and scenes consistent from shot to shot. | [Add to Grok Bot](https://x.ai/bot/I_-3solZeQXm-Pn2_C55A) |
+| Magical Music Video Maker | Turn your songs into cinematic music videos cut to the beat, or give it a subject and get a 60-second lip-synced singing short. It proposes the look first and keeps the characters consistent from shot to shot. | [Add to Grok Bot](https://x.ai/bot/I_-3solZeQXm-Pn2_C55A) |
 | Night Owl Scout | Tell it what you're hunting for (an apartment, a used car, tickets, a restock) and every morning you see only what's new. | [Add to Grok Bot](https://x.ai/bot/aF1pTFYqb_cM2kTdxu60M) |
 | Offer Hunter | Finds roles that actually fit, tailors your resume truthfully, preps every application and tracks it all. You approve every submit. | [Add to Grok Bot](https://x.ai/bot/v3KEiMUjQVaiWWBRusvX1) |
 | Omarchy Maintenance | Keeps your Omarchy PC, its plugins and every app up to date on your schedule: a dry-run summary and known-issues check first, then a snapshot-backed update you start with one tap, a health check and a clear report. | [Add to Grok Bot](https://x.ai/bot/ZFtBbDeNciHpCvORetaw5) |
@@ -43,6 +43,6 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 - X: [@MichaelGannotti](https://x.com/MichaelGannotti)
 - Blog: [SMF Clearinghouse](https://www.smfclearinghouse.com)
 
-_Last verified: October 16, 2026. Every link above was opened logged-out and loads its public template page._
+_Last verified: October 16, 2026, 9:56 AM ET. Every link above was opened logged-out and loads its public template page._
 
 These templates are an unofficial community project by SMF Works, not affiliated with SpaceXAI.
