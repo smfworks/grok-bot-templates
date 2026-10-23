@@ -43,6 +43,6 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 - X: [@MichaelGannotti](https://x.com/MichaelGannotti)
 - Blog: [SMF Clearinghouse](https://www.smfclearinghouse.com)
 
-_Last verified: October 16, 2026, 9:56 AM ET. Every link above was opened logged-out and loads its public template page._
+_Last verified: October 23, 2026, 8:24 AM ET. Every link above was opened logged-out and loads its public template page._
 
 These templates are an unofficial community project by SMF Works, not affiliated with SpaceXAI.
