@@ -1,0 +1,59 @@
+{
+  "schema": "smfworks.grok-bot-templates.skill-allowlist.v1",
+  "purpose": "Exact public skill files a Marketing Manager onboarding may fetch after the owner opts in. This is not a Grok Bot share import and it does not register skills.",
+  "repository": "https://github.com/smfworks/grok-bot-templates",
+  "revision": "d82e405d262cd7e9a56132184f88233a187a7e1a",
+  "revision_note": "revision is the immutable commit of these skill bytes. Fetch raw_url first. A squash merge may leave that commit off main; raw_url_on_main is allowed only when its body matches sha256 and bytes. Do not fetch any other URL.",
+  "files": [
+    {
+      "name": "marketing-manager-channel-setup",
+      "path": "templates/marketing-manager/skills/marketing-manager-channel-setup/SKILL.md",
+      "role": "supporting",
+      "sha256": "ec6e4da6b324bcfb048e009558102fe881b3669501e8620f862e58476e61dcb4",
+      "bytes": 3520,
+      "git_blob": "26c2a373c603baed078e02c56ac58890a3c393c3",
+      "raw_url": "https://raw.githubusercontent.com/smfworks/grok-bot-templates/d82e405d262cd7e9a56132184f88233a187a7e1a/templates/marketing-manager/skills/marketing-manager-channel-setup/SKILL.md",
+      "raw_url_on_main": "https://raw.githubusercontent.com/smfworks/grok-bot-templates/main/templates/marketing-manager/skills/marketing-manager-channel-setup/SKILL.md"
+    },
+    {
+      "name": "marketing-manager-content-workflow",
+      "path": "templates/marketing-manager/skills/marketing-manager-content-workflow/SKILL.md",
+      "role": "supporting",
+      "sha256": "7b31b848efa712d5f4d9c1f0edcb7bd969a57061bf27dfdacfc808b7bb7d0432",
+      "bytes": 3078,
+      "git_blob": "d85dc4496747ab3234b4ab615562d2b75f9e0e07",
+      "raw_url": "https://raw.githubusercontent.com/smfworks/grok-bot-templates/d82e405d262cd7e9a56132184f88233a187a7e1a/templates/marketing-manager/skills/marketing-manager-content-workflow/SKILL.md",
+      "raw_url_on_main": "https://raw.githubusercontent.com/smfworks/grok-bot-templates/main/templates/marketing-manager/skills/marketing-manager-content-workflow/SKILL.md"
+    },
+    {
+      "name": "marketing-manager-full-length-video-publishing",
+      "path": "templates/marketing-manager/skills/marketing-manager-full-length-video-publishing/SKILL.md",
+      "role": "browser-publishing",
+      "sha256": "34766240e67c90923aef40e70d8223f754ad38a1d028a6261cbd9f7099344240",
+      "bytes": 3126,
+      "git_blob": "706c5d8d2c4e4398e88ba1b6b9325de8356e595a",
+      "raw_url": "https://raw.githubusercontent.com/smfworks/grok-bot-templates/d82e405d262cd7e9a56132184f88233a187a7e1a/templates/marketing-manager/skills/marketing-manager-full-length-video-publishing/SKILL.md",
+      "raw_url_on_main": "https://raw.githubusercontent.com/smfworks/grok-bot-templates/main/templates/marketing-manager/skills/marketing-manager-full-length-video-publishing/SKILL.md"
+    },
+    {
+      "name": "marketing-manager-getting-started",
+      "path": "templates/marketing-manager/skills/marketing-manager-getting-started/SKILL.md",
+      "role": "supporting",
+      "sha256": "9411a893f18792f9d10eadff46d267f445c3c62d144ce8194135061edb668220",
+      "bytes": 4294,
+      "git_blob": "569ad75818e0d365c95647383395f46657a05940",
+      "raw_url": "https://raw.githubusercontent.com/smfworks/grok-bot-templates/d82e405d262cd7e9a56132184f88233a187a7e1a/templates/marketing-manager/skills/marketing-manager-getting-started/SKILL.md",
+      "raw_url_on_main": "https://raw.githubusercontent.com/smfworks/grok-bot-templates/main/templates/marketing-manager/skills/marketing-manager-getting-started/SKILL.md"
+    },
+    {
+      "name": "marketing-manager-x-browser-video-upload",
+      "path": "templates/marketing-manager/skills/marketing-manager-x-browser-video-upload/SKILL.md",
+      "role": "browser-publishing",
+      "sha256": "af536432f941abb2ebd917a936cdb06b7d2ce6d0c280ead5cb1a40261f2e2ac9",
+      "bytes": 2413,
+      "git_blob": "d136c1b826c4ee0eca3625c09682ca212e485a8d",
+      "raw_url": "https://raw.githubusercontent.com/smfworks/grok-bot-templates/d82e405d262cd7e9a56132184f88233a187a7e1a/templates/marketing-manager/skills/marketing-manager-x-browser-video-upload/SKILL.md",
+      "raw_url_on_main": "https://raw.githubusercontent.com/smfworks/grok-bot-templates/main/templates/marketing-manager/skills/marketing-manager-x-browser-video-upload/SKILL.md"
+    }
+  ]
+}

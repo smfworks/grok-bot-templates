@@ -6,6 +6,8 @@
 
 Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Grok Bot templates I've published so far. Each template is a ready-made bot, and one click adds it to your Grok Bot.
 
+Marketing Manager is stored in this repository and does not have a public share link yet. Its table link opens the source and the onboarding paste.
+
 ## Templates
 
 | Template | What it does | Link |
@@ -28,6 +30,7 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 | Healthspan Coach | Turns your goals, wearable data and lab reports into an evidence-based weekly plan for training, sleep and nutrition, on your calendar. Coaching, not medical advice. | [Add to Grok Bot](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) |
 | Ledger | Finds every subscription, bill, renewal and deadline hiding in your inbox and drafts the replies. Money and due dates, handled; nothing sent without your yes. | [Add to Grok Bot](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) |
 | Magical Music Video Maker | Superseded by [Grok Bot Video Studio](https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN) |  |
+| Marketing Manager | Researches, drafts, and adapts social content for the channels you choose, then publishes only what you approve. Optional browser publishing skills stay unloaded until you opt in. By SMF Works. Native share link is not published. | [Repository source](templates/marketing-manager/README.md) |
 | Night Owl Scout | Tell it what you're hunting for (an apartment, a used car, tickets, a restock) and every morning you see only what's new. | [Add to Grok Bot](https://x.ai/bot/aF1pTFYqb_cM2kTdxu60M) |
 | Offer Hunter | Finds roles that actually fit, tailors your resume truthfully, preps every application and tracks it all. You approve every submit. | [Add to Grok Bot](https://x.ai/bot/v3KEiMUjQVaiWWBRusvX1) |
 | Omarchy Maintenance | Keeps your Omarchy PC, its plugins and every app up to date on your schedule: a dry-run summary and known-issues check first, then a snapshot-backed update you start with one tap, a health check and a clear report. | [Add to Grok Bot](https://x.ai/bot/ZFtBbDeNciHpCvORetaw5) |
@@ -43,6 +46,7 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 1. Open a template link above.
 2. Click **Add to Grok Bot**.
 3. The bot walks you through a short setup, and then it's ready to work.
+4. For Marketing Manager, open the repository source and paste its onboarding into a new bot. A public share link for it is not published.
 
 ## Follow along
 
