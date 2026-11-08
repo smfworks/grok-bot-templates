@@ -13,6 +13,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Fetch the catalog base branch
+        run: git fetch origin main
       - name: Check Marketing Manager integrity and privacy
         env:
           PYTHONDONTWRITEBYTECODE: "1"

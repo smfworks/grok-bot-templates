@@ -79,6 +79,21 @@ def frontmatter(text: str) -> dict:
     return fields
 
 
+def catalog_base() -> str:
+    """Base branch for the catalog diff. Actions checkouts often have
+    origin/main and no local main ref."""
+    for candidate in ("origin/main", "main"):
+        probe = subprocess.run(
+            ["git", "rev-parse", "--verify", "--quiet", candidate],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+        )
+        if probe.returncode == 0:
+            return candidate
+    raise AssertionError("neither origin/main nor main is in this clone")
+
+
 def git_object(revision: str, path: str) -> bytes:
     return subprocess.check_output(
         ["git", "cat-file", "-p", f"{revision}:{path}"],
@@ -297,7 +312,7 @@ class MarketingManagerTemplateTest(unittest.TestCase):
         self.assertIn("templates/marketing-manager/README.md", rows[0])
         self.assertNotIn("x.ai/" + "bot/", rows[0])
         diff = subprocess.check_output(
-            ["git", "diff", "--unified=0", "main", "--", "README.md"],
+            ["git", "diff", "--unified=0", catalog_base(), "--", "README.md"],
             cwd=ROOT,
             text=True,
         )
