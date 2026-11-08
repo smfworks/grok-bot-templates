@@ -1,0 +1,19 @@
+name: Marketing Manager check
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Check Marketing Manager integrity and privacy
+        env:
+          PYTHONDONTWRITEBYTECODE: "1"
+        run: python3 templates/marketing-manager/check_template.py
