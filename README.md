@@ -28,6 +28,7 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 | Healthspan Coach | Turns your goals, wearable data and lab reports into an evidence-based weekly plan for training, sleep and nutrition, on your calendar. Coaching, not medical advice. | [Add to Grok Bot](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) |
 | Ledger | Finds every subscription, bill, renewal and deadline hiding in your inbox and drafts the replies. Money and due dates, handled; nothing sent without your yes. | [Add to Grok Bot](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) |
 | Magical Music Video Maker | Superseded by [Grok Bot Video Studio](https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN) |  |
+| Marketing Manager | Plan and draft channel-specific marketing content, starting with your selected channels (X, YouTube, Instagram, Facebook, LinkedIn, TikTok, or others) and offering optional marketing skills with your consent. The shared template starts with onboarding. Agreeing to install a skill is not permission to publish. By SMF Works. | [Add to Grok Bot](https://x.ai/bot/DRdlYas_qcUcMFuhtHMox) |
 | Night Owl Scout | Tell it what you're hunting for (an apartment, a used car, tickets, a restock) and every morning you see only what's new. | [Add to Grok Bot](https://x.ai/bot/aF1pTFYqb_cM2kTdxu60M) |
 | Offer Hunter | Finds roles that actually fit, tailors your resume truthfully, preps every application and tracks it all. You approve every submit. | [Add to Grok Bot](https://x.ai/bot/v3KEiMUjQVaiWWBRusvX1) |
 | Omarchy Maintenance | Keeps your Omarchy PC, its plugins and every app up to date on your schedule: a dry-run summary and known-issues check first, then a snapshot-backed update you start with one tap, a health check and a clear report. | [Add to Grok Bot](https://x.ai/bot/ZFtBbDeNciHpCvORetaw5) |
@@ -49,6 +50,6 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 - X: [@MichaelGannotti](https://x.com/MichaelGannotti)
 - Blog: [SMF Clearinghouse](https://www.smfclearinghouse.com)
 
-_Last verified: November 6, 2026, 10:07 AM ET. Every link above was opened logged-out and loads its public template page._
+_Last verified: November 8, 2026, 5:01 PM ET for Marketing Manager, opened logged-out; its page loads with Add to Grok Bot. The other links were last opened logged-out on November 6, 2026, 10:07 AM ET._
 
 These templates are an unofficial community project by SMF Works, not affiliated with SpaceXAI.
