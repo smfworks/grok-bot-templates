@@ -53,6 +53,6 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 - X: [@MichaelGannotti](https://x.com/MichaelGannotti)
 - Blog: [SMF Clearinghouse](https://www.smfclearinghouse.com)
 
-_Last verified: November 11, 2026, 10:45 AM ET for Personal Health Desk. November 11, 2026, 6:10 AM ET for Anime Series Maker. November 11, 2026, 6:03 AM ET for Podcast bot; its public page loaded with the recorded name, description, and link. The other links were last opened logged-out on November 6, 2026, 10:07 AM ET, except Marketing Manager on November 8, 2026, 5:01 PM ET._
+_Last verified: November 13, 2026. All 29 template links were opened logged-out (HTTP 200, "by Michael" title, Add to Grok Bot present) and no new templates were found since November 6, 2026._
 
 These templates are an unofficial community project by SMF Works, not affiliated with SpaceXAI.
