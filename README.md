@@ -24,6 +24,7 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 | First-Week Coach | New to Grok Bot? A 10-minute daily lesson for 7 days. I learn your work, pick 3 bots worth adding, teach routines, approvals, and safe connections, then run a weekly team check-up. Unofficial guide, not affiliated with SpaceXAI. By SMF Works. | [Add to Grok Bot](https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67) |
 | Gatekeeper Prime | The reviewer half of a two-bot coding team. Pair it with Builder Prime: it reviews every pull request in public, demands proof that fixes work, keeps main protected, and merges only on your yes. | [Add to Grok Bot](https://x.ai/bot/re7nU5kngjZPu3qNtvzUx) |
 | GitHub PR Desk | Your morning GitHub desk. Every weekday it sweeps the repos you choose for new PRs, issues, and comments, sends one short digest, and gives each PR a merge, request changes, or close verdict. It never merges without your yes and drafts every public comment for your approval. | [Add to Grok Bot](https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic) |
+| Ghost Writer | A warm AI ghostwriter that interviews you and writes your book, nonfiction or fiction, in your own voice. You approve every chapter, and it delivers a finished EPUB, PDF and manuscript. | [Add to Grok Bot](https://x.ai/bot/o-FcL9kK0iy2A9wmadEAt) |
 | Grok Bot Video Studio | Your AI video studio on Grok Imagine: cited explainers, presenter shorts, podcasts, multi-shot stories with locked characters, free code-drawn promos, and music videos for songs you own. It plans with a generation count first, keeps characters and style consistent shot to shot, edits, captions and QA-checks every video, and never posts unless you approve. | [Add to Grok Bot](https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN) |
 | Grok Studio | Superseded by [Grok Bot Video Studio](https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN) |  |
 | Healthspan Coach | Turns your goals, wearable data and lab reports into an evidence-based weekly plan for training, sleep and nutrition, on your calendar. Coaching, not medical advice. | [Add to Grok Bot](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) |
@@ -53,6 +54,6 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 - X: [@MichaelGannotti](https://x.com/MichaelGannotti)
 - Blog: [SMF Clearinghouse](https://www.smfclearinghouse.com)
 
-_Last verified: November 13, 2026, 10:03 AM ET. All 29 template links were opened logged-out (HTTP 200, "by Michael" title, Add to Grok Bot present). Synced 12 template blurbs to match live public pages. No new templates were found, and no links were broken._
+_Last verified: November 14, 2026, 8:14 PM ET. Added Ghost Writer (HTTP 200 logged-out, "by Michael" title, Add to Grok Bot present). The other 29 template links were last verified November 13, 2026, 10:03 AM ET._
 
 These templates are an unofficial community project by SMF Works, not affiliated with SpaceXAI.
