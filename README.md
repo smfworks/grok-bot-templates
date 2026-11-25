@@ -29,6 +29,7 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 | Grok Bot Video Studio | Your AI video studio on Grok Imagine: explainers, presenter shorts, podcasts, multi-shot stories, free code-drawn promos, Numbers on Screen explainers, Fix It case studies, reusable visual kits and music videos. It shows the generation count first, QA-checks every video and never posts unless you approve. Requires grok-video-studio v1.1.0 (github.com/smfworks/grok-video-studio). Pairs with [Content Cascade](https://x.ai/bot/k0lpe-Njz1-ZPZxUmfsIn): when Content Cascade hands over an approved short script and shot list, Video Studio picks it up, keeps the script word for word, and plans and renders the video with its usual budget card, look test and QA. | [Add to Grok Bot](https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN) |
 | Grok Studio | Superseded by [Grok Bot Video Studio](https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN) |  |
 | Healthspan Coach | Turns your goals, wearable data and lab reports into an evidence-based weekly plan for training, sleep and nutrition, on your calendar. Coaching, not medical advice. | [Add to Grok Bot](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) |
+| Highlight Keeper (by SMF Works) | Kindle Highlights, Exported and Reviewed. Export your Kindle Notebook highlights and notes to Markdown, Obsidian-friendly files, and CSV, and merge real highlight dates from My Clippings.txt. Sync is on demand, with an optional weekly sync and a daily review in chat. Notion or Google Drive are optional if you connect them. You sign in to Amazon yourself; the bot never sees your password. Amazon's Notebook page doesn't record when a highlight was made; real dates come only from My Clippings.txt. Setup asks you to accept that automating your own signed-in Amazon Notebook may conflict with Amazon's Conditions of Use. It's a new v1 being improved from user feedback. | [Add to Grok Bot](https://x.ai/bot/cfF2jcQN7L9bLZW-Ko_tE) |
 | Ledger | Finds every subscription, bill, renewal and deadline hiding in your inbox and drafts the replies. Money and due dates, handled; nothing sent without your yes. | [Add to Grok Bot](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) |
 | Magical Music Video Maker | Superseded by [Grok Bot Video Studio](https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN) |  |
 | Marketing Manager | Plan, draft, review, and adapt marketing content for your chosen social channels. Set up your workflow one question at a time, with separate approval before publishing. | [Add to Grok Bot](https://x.ai/bot/DRdlYas_qcUcMFuhtHMox) |
@@ -55,7 +56,7 @@ Hi, I'm Michael Gannotti, founder of AI research at SMF Works. These are the Gro
 - X: [@MichaelGannotti](https://x.com/MichaelGannotti)
 - Blog: [SMF Clearinghouse](https://www.smfclearinghouse.com)
 
-_Last verified: November 20, 2026, 10:00 AM ET._
+_Last verified: November 25, 2026, 4:47 PM ET for Highlight Keeper, opened logged-out (HTTP 200, Add to Grok Bot present). The other links were last verified November 20, 2026, 10:00 AM ET._
 
 These templates are an unofficial community project by SMF Works, not affiliated with SpaceXAI.
 
